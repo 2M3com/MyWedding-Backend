@@ -1,7 +1,7 @@
 Summary:
 
-[java](#java)
-[c++](#cpp)
+- [java](#java)
+- [c++](#cpp)
 
 `#include <iostream> int main() { return 0; // bye }`
 
